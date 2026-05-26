@@ -1,22 +1,3 @@
-# TalentFlow HRMS
-
-A complete, production-ready HR Management System frontend connected to **https://hire-ai-webdev-w4.onrender.com**
-
----
-
-## ✅ All Weekly Milestones — Fully Complete
-
-| Week | Task | Status |
-|------|------|--------|
-| W1 | App scaffold + routing + Login UI with Tailwind | ✅ |
-| W2 | Login wired to `/api/auth/login`; protected routes; Kanban 5 columns | ✅ |
-| W3 | Drag-and-drop functional; Job Board lists real jobs | ✅ |
-| W4 | All HRMS features wired to real backend; status updates persist | ✅ |
-| W5 | Candidate profile drawer with AI score + XAI explanation | ✅ |
-| W6 | Empty states, loading skeletons, error toasts, mobile-responsive | ✅ |
-
----
-
 ## 🚀 Quick Start
 
 ```bash
@@ -94,11 +75,3 @@ src/
 - **Error toasts** — all API errors surfaced via Sonner
 - **Responsive** — mobile sidebar drawer, horizontal kanban scroll
 - **Settings** — profile, security, notifications, appearance tabs
-
----
-
-## 🔧 Environment
-
-```env
-VITE_API_BASE=https://hire-ai-webdev-w4.onrender.com
-```
